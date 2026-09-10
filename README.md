@@ -120,21 +120,6 @@ Active Directory      ██░░░░░░░░░  20%
 
 ---
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<div align="center">
-
-### 🐍 Watch my contributions get eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
 <!-- ═══════════════ QUOTE + FOOTER ═══════════════ -->
 <div align="center">
 
