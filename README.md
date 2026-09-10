@@ -37,9 +37,9 @@ class Arctic:
         ]
 ```
 
-- 🧠 &nbsp;Buduję rzeczy z **AI** — od modeli po API, które faktycznie działają
-- 🌐 &nbsp;**Django** to mój dom: REST, ORM, Celery, deploy
-- 🛡️ &nbsp;Uczę się **ethical hackingu** — TryHackMe, HackTheBox, CTF-y
+- 🧠 &nbsp;I build things with **AI** — from models to APIs that actually ship
+- 🌐 &nbsp;**Django** is home turf: REST, ORM, Celery, deployment
+- 🛡️ &nbsp;Currently learning **ethical hacking** — TryHackMe, HackTheBox, CTFs
 
 <br clear="right"/>
 
@@ -125,7 +125,11 @@ Active Directory      ██░░░░░░░░░  20%
 
 ### 🐍 Watch my contributions get eaten
 
-<img src="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -136,10 +140,10 @@ Active Directory      ██░░░░░░░░░  20%
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 
-<!-- ═══ TU WLECI LINK DO PORTFOLIO ═══
+<!-- ═══ PORTFOLIO LINK GOES HERE ═══
 <br/><br/>
 
-<a href="https://TWOJA-STRONA.pl"><img src="https://img.shields.io/badge/PORTFOLIO-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://YOUR-SITE.dev"><img src="https://img.shields.io/badge/PORTFOLIO-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ═══════════════════════════════════ -->
 
