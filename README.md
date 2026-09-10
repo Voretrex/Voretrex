@@ -3,14 +3,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0118,50:6d28d9,100:a855f7&height=220&section=header&text=Arctic&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Django%20Developer%20%E2%80%A2%20Ethical%20Hacking&descAlignY=54&descSize=18" width="100%"/>
 
-<a href="https://github.com/ArcticDev">
+<a href="https://github.com/Voretrex">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Python+%2B+Django;Building+intelligent+backends;Learning+ethical+hacking+%F0%9F%94%90;Break+it.+Understand+it.+Secure+it." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArcticDev&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/ArcticDev?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=Voretrex&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/Voretrex?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117" alt="followers"/>
 
 </div>
 
@@ -40,7 +40,6 @@ class Arctic:
 - 🧠 &nbsp;Buduję rzeczy z **AI** — od modeli po API, które faktycznie działają
 - 🌐 &nbsp;**Django** to mój dom: REST, ORM, Celery, deploy
 - 🛡️ &nbsp;Uczę się **ethical hackingu** — TryHackMe, HackTheBox, CTF-y
-- 📫 &nbsp;Kontakt: **[twój@email.com](mailto:twoj@email.com)**
 
 <br clear="right"/>
 
@@ -88,27 +87,36 @@ class Arctic:
 
 ---
 
-<!-- ═══════════════ STATS ═══════════════ -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Stats
+<!-- ═══════════════ ROADMAP ═══════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Current Roadmap
 
-<div align="center">
+<table>
+<tr><td width="50%" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArcticDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8"/>
+**🤖 AI / ML**
+```text
+Python fundamentals   ███████████ 100%
+Pandas / NumPy        █████████░░  90%
+scikit-learn          ████████░░░  75%
+PyTorch               ██████░░░░░  55%
+LLM / RAG pipelines   ████░░░░░░░  40%
+```
 
-<br/>
+</td><td width="50%" valign="top">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ArcticDev&hide_border=true&background=0d1117&border=30363d&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+**🔐 Ethical Hacking**
+```text
+Linux / networking    █████████░░  85%
+OWASP Top 10          ███████░░░░  65%
+Burp Suite            ██████░░░░░  55%
+Privilege escalation  ████░░░░░░░  35%
+Active Directory      ██░░░░░░░░░  20%
+```
 
-<br/><br/>
+</td></tr>
+</table>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArcticDev&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArcticDev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
-
-</div>
+> **Next up:** deploy a Django + LLM side project, finish the THM *Jr Penetration Tester* path, and land my first box on HTB without a walkthrough.
 
 ---
 
@@ -117,25 +125,23 @@ class Arctic:
 
 ### 🐍 Watch my contributions get eaten
 
-<img src="https://raw.githubusercontent.com/ArcticDev/ArcticDev/output/snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Voretrex/Voretrex/output/snake.svg" alt="snake animation"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ QUOTE + SOCIALS ═══════════════ -->
+<!-- ═══════════════ QUOTE + FOOTER ═══════════════ -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 
+<!-- ═══ TU WLECI LINK DO PORTFOLIO ═══
 <br/><br/>
 
-### Let's connect
+<a href="https://TWOJA-STRONA.pl"><img src="https://img.shields.io/badge/PORTFOLIO-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="mailto:twoj@email.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/twoj-profil"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/twoj-nick"><img src="https://img.shields.io/badge/X-7c3aed?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/twoj-nick"><img src="https://img.shields.io/badge/TryHackMe-5b21b6?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+═══════════════════════════════════ -->
 
 <br/>
 
